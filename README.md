@@ -1,5 +1,8 @@
 # BMI-App
 
+This app prompts users to input their weight and height to calculate their Body Mass Index (BMI). The app securely stores user data in a Firebase database for easy access and management. This solution provides users with a simple and efficient way to track their health metrics.
+
+
 # Splash Screen
 
 ![Bmi_Splash](https://github.com/user-attachments/assets/890afe6d-223c-4f03-ab11-284fcf459b2b)
@@ -27,6 +30,3 @@
 # Results (Female)
 
 ![Screenshot (65)](https://github.com/user-attachments/assets/ff735828-b33c-4759-b78e-6db51dfcd412)
-
-
-This app prompts users to input their weight and height to calculate their Body Mass Index (BMI). The app securely stores user data in a Firebase database for easy access and management. This solution provides users with a simple and efficient way to track their health metrics.
