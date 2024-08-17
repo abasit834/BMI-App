@@ -19,6 +19,8 @@ This app prompts users to input their weight and height to calculate their Body 
 
 # User Details Screen (Female)
 
+![Screenshot (66)](https://github.com/user-attachments/assets/512cc526-e4e3-48ef-9b12-f0ec257e4bcb)
+
 
 
 # Results (Male)
